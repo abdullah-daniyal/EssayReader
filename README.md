@@ -2,6 +2,7 @@
 
 ## Project Overview
 This React-based web application offers a suite of text processing tools designed to help users manage and format their documents more efficiently. Whether you're looking to calculate reading time for a thesis, clean up whitespace, or change case formats, this toolkit provides a simple and user-friendly interface to accomplish these tasks.
+![image](https://github.com/abdullah-daniyal/EssayReader/assets/124662911/72b0c31b-d88b-4886-8341-f86516a11d0d)
 
 ## Features
 - **Reading Time Estimator:** Calculates the estimated time required to read through a thesis or any extensive document.
